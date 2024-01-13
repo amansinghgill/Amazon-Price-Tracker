@@ -8,7 +8,7 @@ This Python script allows you to track the price of a product on Amazon and rece
 3. The extracted price is compared to the target buy price you've set.
 4. If the current price is lower than your desired price, the script sends an email notification to your Gmail address.
 
-<img src="https://github.com/amansinghgill/Amazon-Price-Tracker/assets/90486946/d75d99f0-6498-4130-b094-aa2bc4efb3f8" alt="UI" width="800px" style="margin: 0 auto; display: block;">
+<img src="https://github.com/amansinghgill/Amazon-Price-Tracker/assets/90486946/d75d99f0-6498-4130-b094-aa2bc4efb3f8" alt="Example" width="800px" style="margin: 0 auto; display: block;">
 
 ## Setup Instructions
 1. Clone this repository to your local machine.
